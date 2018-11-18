@@ -19,7 +19,7 @@ export default class LaunchScreen extends Component {
           <View style={styles.section} >
             <Image source={Images.ready} />
             <Text style={styles.sectionText}>
-              Photo app. It's our first react native app development.
+              This is the Photo App.
             </Text>
           </View>
         </ScrollView>
